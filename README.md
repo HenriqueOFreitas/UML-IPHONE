@@ -49,6 +49,8 @@ classDiagram
         +ligar(String numero) void
         +atender() void
         +iniciarCorreioVoz() void
+        +isLigado() boolean
+        +setLigado(boolean ligado) void
     }
 
     class NavegadorInternet {

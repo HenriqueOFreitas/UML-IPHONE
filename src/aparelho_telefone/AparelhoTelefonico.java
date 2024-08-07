@@ -3,9 +3,9 @@ package aparelho_telefone;
 public abstract class AparelhoTelefonico {
     private boolean ligado;
 
-    protected abstract void ligar(String numero);
-    protected abstract void atender();
-    protected abstract void iniciarCorreioVoz();
+    public abstract void ligar(String numero);
+    public abstract void atender();
+    public abstract void iniciarCorreioVoz();
 
     public boolean isLigado() {
         return ligado;
