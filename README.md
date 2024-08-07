@@ -46,7 +46,6 @@ classDiagram
     class AparelhoTelefonico {
         <<abstract>>
         +boolean ligado
-        +String modelo
         +ligar(String numero) void
         +atender() void
         +iniciarCorreioVoz() void

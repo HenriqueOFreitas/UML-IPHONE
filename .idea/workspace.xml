@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56989eef-4650-495e-92b7-f4566b6b6561" name="Changes" comment="Implementação de UML IPHONE">
+    <list default="true" id="56989eef-4650-495e-92b7-f4566b6b6561" name="Changes" comment="readme update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aparelho_telefone/AparelhoTelefonico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aparelho_telefone/AparelhoTelefonico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722992193791</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implementação de UML IPHONE">
+      <option name="closed" value="true" />
+      <created>1722992695312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722992695312</updated>
+    </task>
+    <task id="LOCAL-00003" summary="readme update">
+      <option name="closed" value="true" />
+      <created>1722992740989</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722992740989</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implementação de UML IPHONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementação de UML IPHONE" />
+    <MESSAGE value="readme update" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme update" />
   </component>
 </project>
