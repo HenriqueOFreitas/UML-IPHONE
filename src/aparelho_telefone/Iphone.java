@@ -15,17 +15,17 @@ public class Iphone extends AparelhoTelefonico{
     }
 
     @Override
-    protected void ligar(String numero) {
+    public void ligar(String numero) {
         System.out.println("Ligando para o número " + numero);
     }
 
     @Override
-    protected void atender() {
+    public void atender() {
         System.out.println("Ligação em progresso 00:00");
     }
 
     @Override
-    protected void iniciarCorreioVoz() {
+    public void iniciarCorreioVoz() {
         System.out.println("Iniciando correio de voz");
     }
 
